@@ -25,4 +25,4 @@ Instruction for all functions in the website:
 ## Screenshot
 ![Mock Up Image](./images/techblogdemo.gif)
 ## Link
-Welcome to **[Tech Blog]()**, a new developer's community site.
+Welcome to **[Tech Blog](https://tn-tech-blog-28e7ff7addba.herokuapp.com/)**, a new developer's community site.
