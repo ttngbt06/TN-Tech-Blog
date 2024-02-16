@@ -23,6 +23,6 @@ Instruction for all functions in the website:
 * When you click on the logout option in the navigation, you are signed out of the site.
 * When you are idle on the site for more than a set time, you are able to view posts and comments but you are prompted to log in again before you can add, update, or delete posts.
 ## Screenshot
-![Mock Up Image](./images/mvc-tech-blog.png)
+![Mock Up Image](./images/techblogdemo.gif)
 ## Link
 Welcome to **[Tech Blog]()**, a new developer's community site.
